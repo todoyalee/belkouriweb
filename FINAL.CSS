@@ -1,0 +1,11 @@
+body{
+	background-color: lightblue;
+	background-image: url("guy.jpg");
+	background-repeat:no-repeat;
+
+	
+}
+#y1{
+	bottom:100px;
+	padding: 200px;
+}
